@@ -3,7 +3,7 @@
 FurBuddy is a social networking app for dog owners, helping them find compatible playmates for their pets based on factors like breed, age, and energy level. Users create profiles for themselves and their dogs, connect with others, and easily schedule playdates or walks using the app’s messaging and scheduling features. It fosters a community where dogs get the exercise and socialization they need, and owners can bond with fellow enthusiasts.
 
 
-https://github.com/DenmarkBS/Furbuddy/issues/1#issue-2595596365
+https://github.com/user-attachments/assets/fc962c43-69a3-4253-9df0-6206ef944a56
 
 ## Getting Started
 
