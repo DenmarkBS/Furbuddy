@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "687077135521",
+    "firebase_url": "https://furbuddy-fb5a3-default-rtdb.firebaseio.com",
+    "project_id": "furbuddy-fb5a3",
+    "storage_bucket": "furbuddy-fb5a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687077135521:android:3965416214beb97b258ce0",
+        "android_client_info": {
+          "package_name": "com.example.tinder_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS-uJItW5qjrQzzIjHf_CySNjdQN2YY_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
